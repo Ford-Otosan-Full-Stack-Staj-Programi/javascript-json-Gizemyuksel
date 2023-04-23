@@ -1,0 +1,32 @@
+  group-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.group-table th {
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+.group-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.group-table tr:nth-child(1) {   
+  background-color: #ff4500;   
+}
+.group-table tr:nth-child(2) {   
+  background-color: #f0f8ff;   
+}
+.group-table tr:nth-child(3) {   
+  background-color: #ff1493;   
+}
+
+
+
